@@ -7,12 +7,12 @@ The **"Beginner Machine Learning Course Project - Sentiment Analysis on Livin' b
 ## 📂 Project Structure
 ```
 ├── data/
-│   └── livinbymandiri_reviews.csv            # Dataset hasil scraping ulasan aplikasi
+│   └── livinbymandiri_reviews.csv           
 ├── programs/
-│   ├── scraping_data_ulasan_livinbymandiri.ipynb   # Notebook untuk scraping data
-│   └── Proyek_Analisis_Sentimen_Dicoding.ipynb     # Notebook untuk analisis sentimen
-├── requirements.txt                          # Dependencies untuk menjalankan project
-└── README.md                                 # Deskripsi project
+│   ├── scraping_data_ulasan_livinbymandiri.ipynb   
+│   └── Proyek_Analisis_Sentimen_Dicoding.ipynb     
+├── requirements.txt                          
+└── README.md                                
 ```
 
 ---
